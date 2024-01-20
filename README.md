@@ -18,35 +18,35 @@ Project consists of a simple Python script that walks the user through creating 
 
 <p align="center">
 Launch mousepad: <br/>
-<img src="ADD_IMG_URL" height="80%" width="80%" alt="Port Scanner Utility"/>
+<img src="https://i.imgur.com/7RChxOS.png" height="80%" width="80%" alt="Port Scanner Utility"/>
 <br />
 <br />
 Set your script to python3 and import modules:  <br/>
-<img src="ADD_IMG_URL" height="80%" width="80%" alt="Port Scanner Utility"/>
+<img src="https://i.imgur.com/rfx622w.png" height="80%" width="80%" alt="Port Scanner Utility"/>
 <br />
 <br />
 Define our target: <br/>
-<img src="ADD_IMG_URL" height="80%" width="80%" alt="Port Scanner Utility"/>
+<img src="https://i.imgur.com/IRoSmgy.png" height="80%" width="80%" alt="Port Scanner Utility"/>
 <br />
 <br />
 Add a simple banner: <br/>
-<img src="ADD_IMG_URL" height="80%" width="80%" alt="Port Scanner Utility"/>
+<img src="https://i.imgur.com/r41I0qb.png" height="80%" width="80%" alt="Port Scanner Utility"/>
 <br />
 <br />
 Write the script loop:  <br/>
-<img src="ADD_IMG_URL" height="80%" width="80%" alt="Port Scanner Utility"/>
+<img src="https://i.imgur.com/xxeS6oA.png" height="80%" width="80%" alt="Port Scanner Utility"/>
 <br />
 <br />
 Add error exceptions:  <br/>
-<img src="ADD_IMG_URL" height="80%" width="80%" alt="Port Scanner Utility"/>
+<img src="https://i.imgur.com/XfJPMdc.png" height="80%" width="80%" alt="Port Scanner Utility"/>
 <br />
 <br />
 Save and modify the file for use:  <br/>
-<img src="ADD_IMG_URL" height="80%" width="80%" alt="Port Scanner Utility"/>
+<img src="https://i.imgur.com/swPsnj1.png" height="80%" width="80%" alt="Port Scanner Utility"/>
 <br />
 <br />
 Test the port scanner:  <br/>
-<img src="ADD_IMG_URL" height="80%" width="80%" alt="Port Scanner Utility"/>
+<img src="https://i.imgur.com/kFoJdkK.png" height="80%" width="80%" alt="Port Scanner Utility"/>
 </p>
 
 <!--
